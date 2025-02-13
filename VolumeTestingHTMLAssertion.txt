@@ -1,0 +1,39 @@
+line 4 column 3 - Warning: <meta> lacks "content" attribute
+line 9 column 3 - Warning: unknown attribute "as"
+line 10 column 3 - Warning: unknown attribute "as"
+line 11 column 3 - Warning: unknown attribute "as"
+line 12 column 3 - Warning: unknown attribute "as"
+line 13 column 5 - Warning: link lacks "type" attribute
+line 14 column 3 - Warning: link lacks "type" attribute
+line 17 column 3 - Warning: <style> lacks "type" attribute
+line 17 column 3 - Warning: <style> isn't allowed in <body> elements
+line 49 column 5 - Warning: <oxd-layout> attribute ":sidepanel-menu-items" has invalid value "[{"id":1,"name":"Admin","url":"\/web\/index.php\/admin\/viewAdminModule","icon":"admin"},{"id":30,"name":"PIM","url":"\/web\/index.php\/pim\/viewPimModule","icon":"pim"},{"id":41,"name":"Leave","url":"\/web\/index.php\/leave\/viewLeaveModule","icon":"leave"},{"id":52,"name":"Time","url":"\/web\/index.php\/time\/viewTimeModule","icon":"time"},{"id":65,"name":"Recruitment","url":"\/web\/index.php\/recruitment\/viewRecruitmentModule","icon":"recruitment"},{"id":40,"name":"My Info","url":"\/web\/index.php\/pim\/viewMyDetails","icon":"myinfo"},{"id":83,"name":"Performance","url":"\/web\/index.php\/performance\/viewPerformanceModule","icon":"performance"},{"id":82,"name":"Dashboard","url":"\/web\/index.php\/dashboard\/index","icon":"dashboard","active":true},{"id":93,"name":"Directory","url":"\/web\/index.php\/directory\/viewDirectory","icon":"directory"},{"id":96,"name":"Maintenance","url":"\/web\/index.php\/maintenance\/viewMaintenanceModule","icon":"maintenance"},{"id":105,"name":"Claim","url":"\/web\/index.php\/claim\/viewClaimModule","icon":"claim"},{"id":101,"name":"Buzz","url":"\/web\/index.php\/buzz\/viewBuzz","icon":"buzz"}]"
+line 49 column 5 - Warning: <oxd-layout> attribute ":topbar-menu-items" has invalid value "[]"
+line 49 column 5 - Warning: <oxd-layout> attribute ":user" has invalid value "{"firstName":"ndisnoinioanofaf","lastName":"safbiqhfuihqf","profImgSrc":"\/web\/index.php\/pim\/viewPhoto\/empNumber\/7","hasPassword":true}"
+line 49 column 5 - Warning: <oxd-layout> attribute ":update-password-url" has invalid value ""/web/index.php/pim/updatePassword""
+line 49 column 5 - Warning: <oxd-layout> attribute ":permissions" has invalid value "{"dashboard_subunit_widget":{"canRead":true,"canCreate":false,"canUpdate":false,"canDelete":false},"dashboard_location_widget":{"canRead":true,"canCreate":false,"canUpdate":false,"canDelete":false},"dashboard_leave_widget":{"canRead":true,"canCreate":false,"canUpdate":false,"canDelete":false},"dashboard_time_widget":{"canRead":true,"canCreate":false,"canUpdate":false,"canDelete":false},"dashboard_employees_on_leave_today_config":{"canRead":true,"canCreate":false,"canUpdate":true,"canDelete":false},"dashboard_buzz_widget":{"canRead":true,"canCreate":false,"canUpdate":false,"canDelete":false}}"
+line 49 column 5 - Warning: <oxd-layout> attribute ":breadcrumb" has invalid value "{"moduleName":"Dashboard","level":null}"
+line 49 column 5 - Warning: <oxd-layout> attribute ":date-format" has invalid value "{"id":"Y-d-m","label":"yyyy-dd-mm"}"
+line 49 column 5 - Warning: <oxd-layout> attribute ":show-upgrade" has invalid value "1"
+line 49 column 5 - Error: <oxd-layout> is not recognized!
+line 49 column 5 - Warning: discarding unexpected <oxd-layout>
+line 65 column 7 - Error: <view-dashboard> is not recognized!
+line 65 column 7 - Warning: discarding unexpected <view-dashboard>
+line 67 column 1 - Warning: discarding unexpected </view-dashboard>
+line 68 column 5 - Error: <template> is not recognized!
+line 68 column 5 - Warning: discarding unexpected <template>
+line 68 column 29 - Error: <oxd-text> is not recognized!
+line 68 column 29 - Warning: discarding unexpected <oxd-text>
+line 68 column 91 - Warning: discarding unexpected </oxd-text>
+line 69 column 2 - Error: <oxd-text> is not recognized!
+line 69 column 2 - Warning: discarding unexpected <oxd-text>
+line 69 column 157 - Warning: discarding unexpected </oxd-text>
+line 70 column 1 - Warning: discarding unexpected </template>
+line 71 column 5 - Warning: discarding unexpected </oxd-layout>
+line 79 column 3 - Warning: <script> lacks "type" attribute
+line 80 column 3 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+29 warnings, 5 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
